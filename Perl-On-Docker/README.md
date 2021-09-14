@@ -10,3 +10,7 @@ Siehe [Perl on Docker - Dancer2 Hello World Beispiel](https://perl-howto.github.
 
 Siehe [Perl on Docker - Offizielle Perl Docker Images als Grundlage eigener Images](https://perl-howto.github.io/2021/09/perl-on-docker-offizielle-perl-docker-images.html)
 
+## Ordner Multi-Stage-Builds
+
+Siehe [Perl on Docker - Multi-stage Builds zur Verkürzung von Build-Laufzeiten](https://perl-howto.github.io/2021/09/perl-on-docker-multi-stage-builds-zur-verkuerzung-von-build-laufzeiten.html)
+
