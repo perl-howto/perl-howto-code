@@ -14,3 +14,7 @@ Siehe [Perl on Docker - Offizielle Perl Docker Images als Grundlage eigener Imag
 
 Siehe [Perl on Docker - Multi-stage Builds zur Verkürzung von Build-Laufzeiten](https://perl-howto.github.io/2021/09/perl-on-docker-multi-stage-builds-zur-verkuerzung-von-build-laufzeiten.html)
 
+## Ordner Redis
+
+Siehe [Perl on Docker - Dancer2 und Redis docker-compose Beispiel](https://perl-howto.github.io/2021/09/perl-on-docker-dancer2-und-redis-docker-compose-beispiel.html)
+

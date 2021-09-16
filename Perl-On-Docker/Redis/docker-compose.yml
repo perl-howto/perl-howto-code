@@ -1,0 +1,18 @@
+version: '3'
+services:
+  dancer:
+    build: .
+    expose:
+     - "3000"
+    ports:
+     - "3000:3000"
+    depends_on:
+     - "myredis"
+  myredis:
+    image: redis:alpine
+    expose:
+     - "6379"
+    command: redis-server
+    volumes:
+      - ./redis-data:/data
+
