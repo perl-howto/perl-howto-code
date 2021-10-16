@@ -1,0 +1,7 @@
+#KEY=VALUE
+APP_STAGE="development"
+APP_SSH_OPTS=" -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no"
+APP_SSH_KEY_FILE="./id_rsa"
+APP_DB_HOST='db.dev.example.com'
+APP_LOG_LEVEL=TRACE
+export FOO=BAR
