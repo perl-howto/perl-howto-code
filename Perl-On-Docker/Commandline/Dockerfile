@@ -32,6 +32,7 @@ RUN set -ex; \
     rm -rf /tmp/* ; \
     rm -rf /root/.cpanm/
 
+# Remember, in order to use CMD values as ENTRYPOINT arguments, ENTRYPOINT must be defined in exec form.
 ENTRYPOINT ["/usr/local/bin/checklink"]
 CMD ["--help"]
 
